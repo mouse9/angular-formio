@@ -106,7 +106,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.2",
-    "formiojs": "https://github.com/mouse9/formio.js/archive/1.0.0.0.tar.gz",
+    "formiojs": "https://github.com/mouse9/formio.js/releases/download/1.0.0.0/formiojs-4.8.0-rc.12.tgz",
     "lodash": "^4.17.15",
     "ngx-bootstrap": "^5.2.0"
   }
